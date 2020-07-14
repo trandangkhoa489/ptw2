@@ -1,0 +1,14 @@
+.caption{
+	text-align: center;
+}
+.caption h3:nth-child(1){
+	color: red;
+}
+.thumbnail img{
+	width: 50%;
+    height: 50%;
+    margin: 20px auto;
+}
+.thumbnail a{
+	margin: 10px 40%;
+}

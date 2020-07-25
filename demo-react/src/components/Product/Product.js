@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import './Product.css';
 
+//class cha là Mock-Product
 class Product extends Component{
     onAddToCart = () =>{
         alert('Bạn mua ' + this.props.name);
@@ -8,7 +9,7 @@ class Product extends Component{
     }
 
     render(){
-        
+
         return (
             <div className="col-xs-6 col-sm-6 col-md-6 col-lg-6">
                 <div className="thumbnail">

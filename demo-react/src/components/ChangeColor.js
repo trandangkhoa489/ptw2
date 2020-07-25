@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
-import ColorPicker from './ColorPicker';
-import Reset from './Reset';
-import Result from './Result';
-import SizeSetting from './SizeSetting';
+import ColorPicker from './ChangeColor/ColorPicker';
+import Reset from './ChangeColor/Reset';
+import Result from './ChangeColor/Result';
+import SizeSetting from './ChangeColor/SizeSetting';
 
 class ChangeColor extends Component{
 

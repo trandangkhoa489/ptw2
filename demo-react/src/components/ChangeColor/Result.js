@@ -1,8 +1,9 @@
 import React, {Component} from 'react';
 import './Result.css';
 
+//Con của class ChangeColo.js
 class Result extends Component{
-
+    //Lấy props color, fontSize ở bên ChangeColor (<Result />)
 	setStyle(){
 		return {
 			color: this.props.color,

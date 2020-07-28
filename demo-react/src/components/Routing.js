@@ -3,7 +3,7 @@ import AddProduct from './AddProduct';
 import ChangeColor from './ChangeColor';
 import Form from './Form';
 import ListItemsDemo from './ListItemsDemo.js';
-import MockProduct from './Mock-Product.js';
+import Loadproduct from './Loadproduct.js';
 import Tan from './Tan.js';
 import Linh from './Linh';
 
@@ -14,7 +14,7 @@ class Routing extends Component{
         return (
                 <Switch>
                     {/*Nếu không có exact thì thay đổi địa chỉ vẫn ở lại trang Home*/}
-                    <Route path="/" exact component={MockProduct} />
+                    <Route path="/" exact component={Loadproduct} />
                     {/*Đây là input thêm sản phẩm*/}
                     <Route path="/addProduct" component={AddProduct} />
                     {/*Đây là chỗ text màu sắc*/}

@@ -1,8 +1,10 @@
 import React, {Component} from 'react';
 import Product from './Product/Product';
+import dl from './dulieu.json';
 
 class MockProduct extends Component{
     render(){
+        console.log(dl);
         var product = [
             {
                 id: 1,

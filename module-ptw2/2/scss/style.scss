@@ -1,0 +1,73 @@
+$mau-xam: #a5a8aa;
+$mau-xam2: #f8f9fa;
+
+.module-2{
+	margin: 50px 0;
+	.typography{
+		max-width: 40%;
+		padding: 10px;
+		.btn-form{
+			padding: 30px 5px;
+			.btn{
+				margin-left: 5px;
+				width: 100px;
+				height: 40px;
+				font-weight: 500;
+			}
+		}
+
+		.form-typography{
+			border: 1px solid $mau-xam;
+			.text-typography{
+				.btn{
+					width: 100%;
+    				text-align: left;
+					padding: 15px 20px;
+					font-weight: 500;
+					border-bottom: 1px solid $mau-xam;
+					&:hover{
+						background: $mau-xam2;
+						border-bottom: 1px solid $mau-xam;
+					}
+				}
+			}
+
+			.content-typography{
+				.font-primary{
+					margin: 20px 0;
+					label{
+						font-size: 14px;
+						color: $mau-xam;
+						margin-left: 10px;
+					}
+					.dropdown{
+						.btn{
+							width: 95%;
+						    margin-left: 10px;
+						    background: #fff;
+						    color: #000;
+						}
+					}
+				}
+			}
+		}
+
+		.form-body{
+			border: 1px solid $mau-xam;
+			margin: 30px 0;
+			.text-typography{
+				.btn{
+					width: 100%;
+    				text-align: left;
+					padding: 15px 20px;
+					font-weight: 500;
+					border-bottom: 1px solid $mau-xam;
+					&:hover{
+						background: $mau-xam2;
+						border-bottom: 1px solid $mau-xam;
+					}
+				}
+			}
+		}
+	}
+}

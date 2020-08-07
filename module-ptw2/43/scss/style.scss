@@ -1,0 +1,36 @@
+$mau-xam1: #757575;
+$mau-xanh1: #3eaafd;
+
+.module-43{
+	margin: 50px 0;
+	
+	.form-contact{
+		background: $mau-xanh1;
+		.main-content{
+			padding: 30px;
+			.title{
+				font-size: 18px;
+				font-weight: 500;
+				color: #fff;
+			}
+			.desc{
+				color: #fff;
+				margin: 10px 0;
+			}
+			.action{
+				margin-top: 15px;
+				padding: 15px 0;
+				.btn-contact{
+					background: #fff;
+					padding: 10px 20px;
+					border-radius: 5px;
+					text-decoration: none;
+					&:hover{
+						opacity: 0.6;
+						transition: 0.3s;
+					}
+				}
+			}
+		}
+	}
+}

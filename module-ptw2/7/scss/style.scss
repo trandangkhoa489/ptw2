@@ -1,0 +1,42 @@
+$color-blue1: #eaf0fe;
+$color-blue2: #597ef0;
+$color-yellow1: #febf01;
+
+.module_7{
+	margin: 50px 0;
+	.icon-Search{
+		text-align: center;
+
+		.fSearch{
+			font-size: 50px;
+			background: $color-blue1;
+			border-radius: 50%;
+			color: $color-blue2;
+			width: 100px;
+    		display: inline-block;
+    		height: 100px;
+    		padding: 10px;
+		}
+
+		.text-seeHow{
+			margin: 30px auto;
+			p:nth-child(1){
+				font-size: 20px;
+				font-weight: 500;
+			}
+			a{
+				font-weight: 500;
+				text-decoration: none;
+				&:hover{
+					color:$color-yellow1;
+					transition: 0.25s;
+				}
+			}
+		}
+	}
+
+	.seeHow{
+		text-align: center;
+		margin-bottom: 30px;
+	}
+}

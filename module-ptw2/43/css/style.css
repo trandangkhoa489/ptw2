@@ -1,0 +1,24 @@
+.module-43 {
+  margin: 50px 0; }
+  .module-43 .form-contact {
+    background: #3eaafd; }
+    .module-43 .form-contact .main-content {
+      padding: 30px; }
+      .module-43 .form-contact .main-content .title {
+        font-size: 18px;
+        font-weight: 500;
+        color: #fff; }
+      .module-43 .form-contact .main-content .desc {
+        color: #fff;
+        margin: 10px 0; }
+      .module-43 .form-contact .main-content .action {
+        margin-top: 15px;
+        padding: 15px 0; }
+        .module-43 .form-contact .main-content .action .btn-contact {
+          background: #fff;
+          padding: 10px 20px;
+          border-radius: 5px;
+          text-decoration: none; }
+          .module-43 .form-contact .main-content .action .btn-contact:hover {
+            opacity: 0.6;
+            transition: 0.3s; }

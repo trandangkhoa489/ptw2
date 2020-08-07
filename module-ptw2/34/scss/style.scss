@@ -1,0 +1,58 @@
+$mau-xam1: #757575;
+$mau-xam2: #f3f3f6;
+$mau-xanh1: #3eaafd;
+.module-34{
+	margin: 50px 0;
+	
+	.form-info{
+		border: 1px solid rgba(0,0,0,.06);
+		background: #fff;
+		box-shadow: 0 10px 14px 0 rgba(0,0,0,.08);
+		
+		.business-inf{
+			font-weight: 500;
+			font-size: 17px;
+			border-bottom: 1px solid rgba(0,0,0,.06);
+			padding: 10px 25px;
+			i{
+				margin-right: 10px;
+			}
+		}
+
+		.main-content{
+			padding: 20px;
+			color: $mau-xam1;
+			.list-content{
+				list-style-type: none;
+				padding: 0;
+				margin: 0;
+				i{
+					margin-right: 5px;
+					font-size: 12px;
+				    width: 32px;
+				    height: 32px;
+				    background: $mau-xam2;
+				    border-radius: 50%;
+				    line-height: 32px;
+				    text-align: center;
+				}
+				li{
+					margin: 10px 0;
+					border-bottom: 1px solid rgba(0,0,0,.08);
+					padding-bottom: 10px;
+					span{
+						float: right;
+					}
+				}
+				.link-map{
+					text-decoration: none;
+					color: $mau-xam1;
+					&:hover{
+						color:$mau-xanh1;
+						transition: 0.3s;
+					}
+				}
+			}
+		}
+	}
+}

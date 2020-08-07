@@ -1,0 +1,27 @@
+$mau-xam1: #757575;
+
+.module-61{
+	margin: 50px 0;
+	.element-tab{
+		margin-bottom: 20px;
+		border: 1px solid $mau-xam1;
+		.collapsible {
+			background-color: #fff;
+			color: #000;
+			cursor: pointer;
+			padding: 18px;
+			width: 100%;		
+			text-align: left;
+			outline: none;
+			font-size: 15px;
+			font-weight: 600;
+			border: none;
+		}
+		.content {
+			padding: 0 18px;
+			max-height: 0;
+			overflow: hidden;
+			transition: max-height 0.4s ease-out;
+		}
+	}
+}

@@ -1,0 +1,38 @@
+.module-46 {
+  margin: 50px 0; }
+  .module-46 .bd-care {
+    border: 1px solid #dee2e6;
+    margin-bottom: 30px; }
+    .module-46 .bd-care .content-care {
+      padding: 30px;
+      display: table; }
+      .module-46 .bd-care .content-care .logo-inner {
+        display: table-cell; }
+        .module-46 .bd-care .content-care .logo-inner img {
+          vertical-align: top; }
+      .module-46 .bd-care .content-care .content-inner {
+        display: table-cell;
+        padding-left: 20px; }
+        .module-46 .bd-care .content-care .content-inner .type-time {
+          color: #3eaafd;
+          font-size: 13px;
+          font-weight: 500;
+          display: inline-block; }
+        .module-46 .bd-care .content-care .content-inner .title {
+          margin-bottom: 10px; }
+          .module-46 .bd-care .content-care .content-inner .title a {
+            text-decoration: none;
+            color: #000;
+            font-size: 19px;
+            font-weight: 500; }
+            .module-46 .bd-care .content-care .content-inner .title a:hover {
+              color: #3eaafd;
+              transition: 0.35s; }
+        .module-46 .bd-care .content-care .content-inner .list-inf ul {
+          list-style: none;
+          margin: 0;
+          padding: 0; }
+          .module-46 .bd-care .content-care .content-inner .list-inf ul li i {
+            font-size: 14px;
+            color: #febf01;
+            width: 20px; }

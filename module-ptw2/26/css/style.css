@@ -1,0 +1,68 @@
+.module-26 {
+  margin: 50px 0; }
+  .module-26 .phan-hinh {
+    position: relative; }
+    .module-26 .phan-hinh .bg-mellow .image-mellow img {
+      max-width: 100%; }
+    .module-26 .phan-hinh .listing-preview {
+      position: absolute;
+      top: 85%; }
+      .module-26 .phan-hinh .listing-preview .icon-camera {
+        position: absolute;
+        left: 15px;
+        width: 80px; }
+      .module-26 .phan-hinh .listing-preview .icon-video {
+        position: absolute;
+        left: 270px;
+        width: 80px; }
+      .module-26 .phan-hinh .listing-preview a {
+        text-decoration: none;
+        color: #fff; }
+        .module-26 .phan-hinh .listing-preview a i {
+          font-size: 13px; }
+        .module-26 .phan-hinh .listing-preview a:hover {
+          opacity: 0.8; }
+  .module-26 .phan-chu {
+    background: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    border-top: 0; }
+    .module-26 .phan-chu .mellow-heaven {
+      padding: 15px; }
+      .module-26 .phan-chu .mellow-heaven .text-mellow {
+        font-size: 20px;
+        font-weight: 500;
+        color: #000;
+        text-decoration: none; }
+        .module-26 .phan-chu .mellow-heaven .text-mellow:hover {
+          color: #3eaafd;
+          transition: 0.4s; }
+      .module-26 .phan-chu .mellow-heaven .body {
+        font-size: 14px;
+        color: #757575;
+        margin: 5px 0; }
+        .module-26 .phan-chu .mellow-heaven .icon-map i {
+          margin-right: 5px; }
+      .module-26 .phan-chu .mellow-heaven .icon-phone i {
+        margin-right: 5px; }
+    .module-26 .phan-chu .bar-newyork {
+      border-top: 1px solid rgba(0, 0, 0, 0.08);
+      padding: 10px 20px;
+      font-size: 14px; }
+      .module-26 .phan-chu .bar-newyork .icon-hudo {
+        text-decoration: none; }
+        .module-26 .phan-chu .bar-newyork .icon-hudo a {
+          color: red; }
+        .module-26 .phan-chu .bar-newyork .icon-hudo i {
+          margin-right: 5px; }
+        .module-26 .phan-chu .bar-newyork .icon-hudo .night-life {
+          color: #90d0c4; }
+      .module-26 .phan-chu .bar-newyork .new-york {
+        margin-left: 44%; }
+        .module-26 .phan-chu .bar-newyork .new-york i {
+          margin-right: 5px; }
+        .module-26 .phan-chu .bar-newyork .new-york a {
+          text-decoration: none;
+          color: #000; }
+          .module-26 .phan-chu .bar-newyork .new-york a:hover {
+            color: #3eaafd;
+            transition: 0.4s; }

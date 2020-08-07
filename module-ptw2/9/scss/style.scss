@@ -1,0 +1,19 @@
+$mau-vang1: #febf01;
+
+.module_9{
+	margin: 50px 0;
+
+	.bg-md9{
+		text-align: center;
+		margin: 50px auto;
+		background-image: url(../images/upcoming.jpg);
+		padding: 200px 0;
+		background-repeat: no-repeat;
+
+		p{
+			color: $mau-vang1;
+			font-size: 30px;
+			font-weight: 500;
+		}
+	}
+}

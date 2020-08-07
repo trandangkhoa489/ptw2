@@ -1,0 +1,46 @@
+.module-2 {
+  margin: 50px 0; }
+  .module-2 .typography {
+    max-width: 40%;
+    padding: 10px; }
+    .module-2 .typography .btn-form {
+      padding: 30px 5px; }
+      .module-2 .typography .btn-form .btn {
+        margin-left: 5px;
+        width: 100px;
+        height: 40px;
+        font-weight: 500; }
+    .module-2 .typography .form-typography {
+      border: 1px solid #a5a8aa; }
+      .module-2 .typography .form-typography .text-typography .btn {
+        width: 100%;
+        text-align: left;
+        padding: 15px 20px;
+        font-weight: 500;
+        border-bottom: 1px solid #a5a8aa; }
+        .module-2 .typography .form-typography .text-typography .btn:hover {
+          background: #f8f9fa;
+          border-bottom: 1px solid #a5a8aa; }
+    .module-2 .typography .form-typography .content-typography .font-primary {
+      margin: 20px 0; }
+      .module-2 .typography .form-typography .content-typography .font-primary label {
+        font-size: 14px;
+        color: #a5a8aa;
+        margin-left: 10px; }
+        .module-2 .typography .form-typography .content-typography .font-primary .dropdown .btn {
+          width: 95%;
+          margin-left: 10px;
+          background: #fff;
+          color: #000; }
+    .module-2 .typography .form-body {
+      border: 1px solid #a5a8aa;
+      margin: 30px 0; }
+      .module-2 .typography .form-body .text-typography .btn {
+        width: 100%;
+        text-align: left;
+        padding: 15px 20px;
+        font-weight: 500;
+        border-bottom: 1px solid #a5a8aa; }
+        .module-2 .typography .form-body .text-typography .btn:hover {
+          background: #f8f9fa;
+          border-bottom: 1px solid #a5a8aa; }

@@ -1,0 +1,107 @@
+.module-54 {
+  margin: 50px 0; }
+  .module-54 .title-hd {
+    text-align: center;
+    margin-bottom: 30px; }
+  .module-54 .unique-element {
+    margin-bottom: 25px; }
+    .module-54 .unique-element .icon-char {
+      text-align: right; }
+      .module-54 .unique-element .icon-char .icon-container {
+        display: inline-block;
+        width: 70px;
+        height: 70px;
+        border-radius: 50%;
+        background: #FDEFEC;
+        text-align: center;
+        line-height: 70px; }
+        .module-54 .unique-element .icon-char .icon-container i {
+          font-size: 25px;
+          color: #FFB0A1; }
+    .module-54 .unique-element .icon-app-store {
+      text-align: right; }
+      .module-54 .unique-element .icon-app-store .icon-container {
+        display: inline-block;
+        width: 70px;
+        height: 70px;
+        border-radius: 50%;
+        background: #E5FAF5;
+        text-align: center;
+        line-height: 70px; }
+        .module-54 .unique-element .icon-app-store .icon-container i {
+          font-size: 25px;
+          color: #3FD2A8; }
+    .module-54 .unique-element .icon-high-performance {
+      text-align: right; }
+      .module-54 .unique-element .icon-high-performance .icon-container {
+        display: inline-block;
+        width: 70px;
+        height: 70px;
+        border-radius: 50%;
+        background: #F5ECFD;
+        text-align: center;
+        line-height: 70px; }
+        .module-54 .unique-element .icon-high-performance .icon-container i {
+          font-size: 25px;
+          color: #AF78EF; }
+    .module-54 .unique-element .text-title {
+      text-align: right;
+      padding: 5px 0;
+      font-size: 20px;
+      font-weight: 500; }
+    .module-54 .unique-element .text-content {
+      text-align: right;
+      padding: 5px 0;
+      color: #757575; }
+  .module-54 .iphone-bg {
+    text-align: center; }
+  .module-54 .premium-modules {
+    margin-bottom: 25px; }
+    .module-54 .premium-modules .icon-char {
+      text-align: left; }
+      .module-54 .premium-modules .icon-char .icon-container {
+        display: inline-block;
+        width: 70px;
+        height: 70px;
+        border-radius: 50%;
+        background: #EAF0FE;
+        text-align: center;
+        line-height: 70px; }
+        .module-54 .premium-modules .icon-char .icon-container i {
+          font-size: 25px;
+          color: #597EF0; }
+    .module-54 .premium-modules .icon-app-store {
+      text-align: left; }
+      .module-54 .premium-modules .icon-app-store .icon-container {
+        display: inline-block;
+        width: 70px;
+        height: 70px;
+        border-radius: 50%;
+        background: #FFF4DE;
+        text-align: center;
+        line-height: 70px; }
+        .module-54 .premium-modules .icon-app-store .icon-container i {
+          font-size: 25px;
+          color: #EFB959; }
+    .module-54 .premium-modules .icon-high-performance {
+      text-align: left; }
+      .module-54 .premium-modules .icon-high-performance .icon-container {
+        display: inline-block;
+        width: 70px;
+        height: 70px;
+        border-radius: 50%;
+        background: #E5F6FD;
+        text-align: center;
+        line-height: 70px; }
+        .module-54 .premium-modules .icon-high-performance .icon-container i {
+          font-size: 25px;
+          color: #2FB8EF; }
+    .module-54 .premium-modules .text-title {
+      text-align: left;
+      padding: 5px 0;
+      font-size: 20px;
+      font-weight: 500; }
+    .module-54 .premium-modules .text-content {
+      text-align: left;
+      padding: 5px 0;
+      color: #757575; }

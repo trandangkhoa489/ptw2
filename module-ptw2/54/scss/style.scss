@@ -1,0 +1,151 @@
+$mau-xam1: #757575;
+$mau-hong1: #FDEFEC;
+$mau-hong2: #FFB0A1;
+$mau-xanhla1: #E5FAF5;
+$mau-xanhla2: #3FD2A8;
+$mau-tim1: #F5ECFD;
+$mau-tim2: #AF78EF;
+$mau-xanhduong1: #EAF0FE;
+$mau-xanhduong2: #597EF0;
+$mau-cam1: #FFF4DE;
+$mau-cam2: #EFB959;
+$mau-troi1: #E5F6FD;
+$mau-troi2: #2FB8EF;
+
+.module-54{
+	margin: 50px 0;
+	
+	.title-hd{
+		text-align: center;
+		margin-bottom: 30px;
+	}
+	.unique-element{
+		margin-bottom: 25px;
+		.icon-char{
+			text-align: right;
+			.icon-container{
+				display: inline-block;
+				width: 70px;
+				height: 70px;
+				border-radius: 50%;
+				background: $mau-hong1;
+				text-align: center;
+				line-height: 70px;
+				i{
+					font-size: 25px;
+					color: $mau-hong2;
+				}
+			}
+		}
+		.icon-app-store{
+			text-align: right;
+			.icon-container{
+				display: inline-block;
+				width: 70px;
+				height: 70px;
+				border-radius: 50%;
+				background: $mau-xanhla1;
+				text-align: center;
+				line-height: 70px;
+				i{
+					font-size: 25px;
+					color: $mau-xanhla2;
+				}
+			}
+		}
+		.icon-high-performance{
+			text-align: right;
+			.icon-container{
+				display: inline-block;
+				width: 70px;
+				height: 70px;
+				border-radius: 50%;
+				background: $mau-tim1;
+				text-align: center;
+				line-height: 70px;
+				i{
+					font-size: 25px;
+					color: $mau-tim2;
+				}
+			}
+		}
+		.text-title{
+			text-align: right;
+			padding: 5px 0;
+			font-size: 20px;
+			font-weight: 500;
+		}
+		.text-content{
+			text-align: right;
+			padding: 5px 0;
+			color: $mau-xam1;
+		}
+	}
+
+	.iphone-bg{
+		text-align: center;
+	}
+
+	.premium-modules{
+		margin-bottom: 25px;
+		.icon-char{
+			text-align: left;
+			.icon-container{
+				display: inline-block;
+				width: 70px;
+				height: 70px;
+				border-radius: 50%;
+				background: $mau-xanhduong1;
+				text-align: center;
+				line-height: 70px;
+				i{
+					font-size: 25px;
+					color: $mau-xanhduong2;
+				}
+			}
+		}
+		.icon-app-store{
+			text-align: left;
+			.icon-container{
+				display: inline-block;
+				width: 70px;
+				height: 70px;
+				border-radius: 50%;
+				background: $mau-cam1;
+				text-align: center;
+				line-height: 70px;
+				i{
+					font-size: 25px;
+					color: $mau-cam2;
+				}
+			}
+		}
+		.icon-high-performance{
+			text-align: left;
+			.icon-container{
+				display: inline-block;
+				width: 70px;
+				height: 70px;
+				border-radius: 50%;
+				background: $mau-troi1;
+				text-align: center;
+				line-height: 70px;
+				i{
+					font-size: 25px;
+					color: $mau-troi2;
+				}
+			}
+		}
+		.text-title{
+			text-align: left;
+			padding: 5px 0;
+			font-size: 20px;
+			font-weight: 500;
+		}
+		.text-content{
+			text-align: left;
+			padding: 5px 0;
+			color: $mau-xam1;
+		}
+	}
+}

@@ -1,0 +1,20 @@
+.module-18 {
+  margin: 50px 0; }
+  .module-18 .bg-md18 {
+    background-image: url(../images/upcoming.jpg);
+    padding: 150px 0;
+    background-repeat: no-repeat; }
+    .module-18 .bg-md18 .main-content {
+      color: #fff;
+      padding: 0 50% 0 0; }
+    .module-18 .bg-md18 .btn-content {
+      text-align: right;
+      margin-top: -100px; }
+      .module-18 .bg-md18 .btn-content .btn {
+        text-decoration: none;
+        background: #3eaafd;
+        padding: 8px 15px;
+        color: #fff;
+        font-weight: 500; }
+        .module-18 .bg-md18 .btn-content .btn:hover {
+          background: #0c94fc; }

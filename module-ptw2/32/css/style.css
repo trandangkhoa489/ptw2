@@ -1,0 +1,59 @@
+.module-32 {
+  margin: 50px 0; }
+  .module-32 .form-info {
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    background: #fff;
+    box-shadow: 0 10px 14px 0 rgba(0, 0, 0, 0.08); }
+    .module-32 .form-info .business-inf {
+      font-weight: 500;
+      font-size: 17px;
+      border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+      padding: 10px 25px; }
+      .module-32 .form-info .business-inf i {
+        margin-right: 5px; }
+    .module-32 .form-info .main-content {
+      padding: 20px;
+      color: #757575; }
+      .module-32 .form-info .main-content .list-content {
+        list-style-type: none;
+        padding: 0;
+        margin: 0; }
+        .module-32 .form-info .main-content .list-content i {
+          margin-right: 5px;
+          font-size: 12px;
+          width: 32px;
+          height: 32px;
+          background: #f3f3f6;
+          border-radius: 50%;
+          line-height: 32px;
+          text-align: center; }
+        .module-32 .form-info .main-content .list-content li {
+          margin: 10px 0; }
+        .module-32 .form-info .main-content .list-content .link-map {
+          text-decoration: none;
+          color: #757575; }
+          .module-32 .form-info .main-content .list-content .link-map:hover {
+            color: #3eaafd;
+            transition: 0.3s; }
+      .module-32 .form-info .main-content .list-icon {
+        list-style-type: none;
+        margin: 20px 0;
+        padding: 0 0 20px 0; }
+        .module-32 .form-info .main-content .list-icon li {
+          float: left;
+          margin-right: 10px; }
+          .module-32 .form-info .main-content .list-icon li .icon {
+            display: inline-block;
+            width: 36px;
+            height: 36px;
+            border-radius: 5px;
+            background: #f3f3f6;
+            line-height: 36px;
+            text-align: center; }
+            .module-32 .form-info .main-content .list-icon li .icon:hover {
+              background: #3eaafd;
+              transition: 0.3s; }
+              .module-32 .form-info .main-content .list-icon li .icon:hover i {
+                color: #fff; }
+            .module-32 .form-info .main-content .list-icon li .icon i {
+              color: #757575; }

@@ -1,0 +1,42 @@
+.module-3 {
+  margin: 50px 0; }
+  .module-3 .color-skins .form-color-skin .text-body {
+    font-size: 15px;
+    font-weight: 600;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    text-transform: uppercase;
+    color: #000;
+    margin-top: 25px;
+    width: 20%; }
+  .module-3 .color-skins .form-color-skin .text-color {
+    font-size: 15px;
+    font-weight: 600;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    text-transform: uppercase;
+    color: #000;
+    margin-bottom: 15px;
+    width: 20%; }
+  .module-3 .color-skins .form-color-skin .color-content {
+    width: 20%;
+    text-align: center; }
+    .module-3 .color-skins .form-color-skin .color-content .item-color {
+      width: 25px;
+      height: 30px;
+      display: inline-block;
+      border-radius: 5px;
+      margin: 5px 6px 0; }
+    .module-3 .color-skins .form-color-skin .color-content .default {
+      background: red; }
+  .module-3 .color-skins .btn-body {
+    padding: 10px 20px; }
+    .module-3 .color-skins .btn-body a {
+      width: 80px;
+      margin-right: 10px;
+      border: 1px solid rgba(0, 0, 0, 0.1);
+      border-radius: 4px;
+      padding: 10px 0;
+      text-align: center;
+      text-transform: uppercase;
+      display: inline-block;
+      color: #a5a8aa;
+      text-decoration: none; }

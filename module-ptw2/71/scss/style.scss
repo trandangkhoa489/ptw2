@@ -1,0 +1,55 @@
+$mau-xam1: #757575;
+$mau-xanh1: #3eaafd;
+
+.module-71{
+	margin: 50px 0;
+	background: #fff;
+	.form-message{
+		.title{
+			margin-bottom: 30px;
+			h2{
+				font-weight: 600;
+				font-size: 30px;
+			}
+			span{
+				font-size: 15px;
+				color: $mau-xam1;
+			}
+		}
+
+		.form-content{
+			.your-inp{
+				margin-bottom: 20px;
+				input{
+					padding: 5px 0;
+					border: 1px solid rgba(0,0,0,.1);
+				}
+			}
+			.message{
+				textarea{
+					border: 1px solid rgba(0,0,0,.1);
+				}
+			}
+
+			.btn-send{
+				text-align: center;
+				padding: 20px 0;
+				.btnS{
+					display: inline-block;
+					width: 160px;
+					height: 40px;
+					line-height: 40px;
+					background: $mau-xanh1;
+					text-decoration: none;
+					border-radius: 25px;
+					color: #fff;
+					font-weight: 500;
+					&:hover{
+						opacity: 0.8;
+						transition: 0.3s;
+					}
+				}
+			}
+		}
+	}
+}

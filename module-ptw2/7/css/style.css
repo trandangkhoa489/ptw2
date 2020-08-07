@@ -1,0 +1,27 @@
+.module_7 {
+  margin: 50px 0; }
+  .module_7 .icon-Search {
+    text-align: center; }
+    .module_7 .icon-Search .fSearch {
+      font-size: 50px;
+      background: #eaf0fe;
+      border-radius: 50%;
+      color: #597ef0;
+      width: 100px;
+      display: inline-block;
+      height: 100px;
+      padding: 10px; }
+    .module_7 .icon-Search .text-seeHow {
+      margin: 30px auto; }
+      .module_7 .icon-Search .text-seeHow p:nth-child(1) {
+        font-size: 20px;
+        font-weight: 500; }
+      .module_7 .icon-Search .text-seeHow a {
+        font-weight: 500;
+        text-decoration: none; }
+        .module_7 .icon-Search .text-seeHow a:hover {
+          color: #febf01;
+          transition: 0.25s; }
+  .module_7 .seeHow {
+    text-align: center;
+    margin-bottom: 30px; }

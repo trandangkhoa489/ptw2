@@ -1,0 +1,64 @@
+.module-17 {
+  margin: 50px 0; }
+  .module-17 .bg-md .bg-people {
+    position: relative;
+    text-align: center;
+    margin: 50px auto;
+    background-image: url(../images/upcoming.jpg);
+    padding: 180px 0;
+    background-repeat: no-repeat; }
+    .module-17 .bg-md .bg-people .content {
+      color: #fff; }
+      .module-17 .bg-md .bg-people .content .title {
+        font-weight: 500;
+        font-size: 30px;
+        max-width: 40%;
+        display: inline-block; }
+      .module-17 .bg-md .bg-people .content .desc {
+        margin: 5px 0; }
+  .module-17 .bg-md .swiper-img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 60%; }
+    .module-17 .bg-md .swiper-img .swiper-container .swiper-wrapper .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      background: #fff;
+      display: flex;
+      justify-content: center;
+      align-items: center; }
+      .module-17 .bg-md .swiper-img .swiper-container .swiper-wrapper .swiper-slide .element-swiper {
+        width: 400px;
+        height: 500px;
+        overflow: hidden; }
+        .module-17 .bg-md .swiper-img .swiper-container .swiper-wrapper .swiper-slide .element-swiper img {
+          width: 100%;
+          height: 100%; }
+          .module-17 .bg-md .swiper-img .swiper-container .swiper-wrapper .swiper-slide .element-swiper img:hover {
+            transform: scale(1.25);
+            transition: 5s; }
+    .module-17 .bg-md .swiper-img .swiper-container .swiper-button-next {
+      opacity: 0; }
+      .module-17 .bg-md .swiper-img .swiper-container .swiper-button-next::after {
+        font-size: 18px;
+        font-weight: 900;
+        background: #f6f6f6;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        text-align: center; }
+    .module-17 .bg-md .swiper-img .swiper-container .swiper-button-prev {
+      opacity: 0; }
+      .module-17 .bg-md .swiper-img .swiper-container .swiper-button-prev::after {
+        font-size: 18px;
+        font-weight: 900;
+        background: #f6f6f6;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        text-align: center; }
+    .module-17 .bg-md .swiper-img .swiper-container:hover .swiper-button-next, .module-17 .bg-md .swiper-img .swiper-container:hover .swiper-button-prev {
+      opacity: 1;
+      transition: 0.35s;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15); }

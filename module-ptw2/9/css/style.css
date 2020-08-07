@@ -1,0 +1,12 @@
+.module_9 {
+  margin: 50px 0; }
+  .module_9 .bg-md9 {
+    text-align: center;
+    margin: 50px auto;
+    background-image: url(../images/upcoming.jpg);
+    padding: 200px 0;
+    background-repeat: no-repeat; }
+    .module_9 .bg-md9 p {
+      color: #febf01;
+      font-size: 30px;
+      font-weight: 500; }

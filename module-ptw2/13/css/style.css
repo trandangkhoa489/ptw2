@@ -1,0 +1,19 @@
+.module-13 {
+  margin: 50px 0; }
+  .module-13 .bg-md13 {
+    background: #f5f7fa;
+    padding: 60px 0; }
+    .module-13 .bg-md13 .main-content {
+      text-align: center; }
+      .module-13 .bg-md13 .main-content .title {
+        font-size: 30px;
+        font-weight: 600; }
+      .module-13 .bg-md13 .main-content .content {
+        color: #757575; }
+      .module-13 .bg-md13 .main-content .btn {
+        background: #3eaafd;
+        color: #fff;
+        font-weight: 500;
+        padding: 10px 20px; }
+        .module-13 .bg-md13 .main-content .btn:hover {
+          background: #0c94fc; }
